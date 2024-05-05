@@ -1,0 +1,12 @@
+.main {
+  background-color: rgba(0, 0, 0, 0.09);
+  height: fit-content;
+  overflow-x: hidden;
+  width: 100%;
+  display: flex;
+}
+.Content {
+  display: flex;
+  width: 100%;
+  background-color: rgba(0, 0, 0, 0.09);
+}
